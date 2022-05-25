@@ -266,7 +266,7 @@ https://raw.githubusercontent.com/Semporia/TikTok-Unlock/master/Shadowrocket/Tik
 **2-1直接搜索方式**
 
 * 搜索 APP，双击选择。  
-* 双击选择要下载的版本。  
+* 双击选择要下载的版本21.1.0。  
 * 在 iTunes 中下载，如果没有下载速度，建议暂停下载，并关闭拦截，再回复下载。  
 ![Image text](https://raw.githubusercontent.com/Semporia/TikTok-Unlock/master/iOS抓包/1.png)
 ![Image text](https://raw.githubusercontent.com/Semporia/TikTok-Unlock/master/iOS抓包/2.png)
@@ -280,8 +280,22 @@ https://raw.githubusercontent.com/Semporia/TikTok-Unlock/master/Shadowrocket/Tik
 
 **3-1、安装ipa文件**
 
-* 下载完成的tiktok文件，拷贝到桌面
+* 下载完成的tiktok_v21.1.0文件，拷贝到桌面
 * ![](https://raw.githubusercontent.com/cnus/TikTok-Unlock/master/iOS%E6%8A%93%E5%8C%85/vmware_8J9UMKo61u.gif)
+
+* 安装爱思助手
+* 应用-导入安装tiktok(第一次安装可能手机上不显示。重启手机后显示)
+* 打开tiktok_v21.1.0，不登录。若正常使用，可以关闭继续下一步。
+
+**3-2、升级v23.7.0版本。**
+
+* 使用抓包工具拦截v23.7.0版本，iTunes下载，爱思助手安装。
+* 手机打开v23.7.0版本，登录账号。(如升级23.7.0后退出重进解锁失败，强制退回21.1.0，然后首次打开会失败，退后台重进就正常了，正常后在重新装回23.7.0！还有一点建议不要用国内手机登陆，最好用google邮箱或GV登陆，这点我尝试过多次，一旦有国内手机登陆，解锁立即失败。)
+
+**3-3、升级v24.1.0版本。**
+
+* 使用抓包工具拦截v24.1.0版本，iTunes下载，爱思助手安装。
+* 手机打开v24.1.0版本，测试。
 
 
 
