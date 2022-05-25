@@ -243,6 +243,7 @@ https://raw.githubusercontent.com/Semporia/TikTok-Unlock/master/Shadowrocket/Tik
 ---
 ### <a id="抓包降级"> 抓包降级 TikTok 21.1.0 </a>
 **支持系统**  
+
 * windows 11/windows 10/windows 8/windows 7（由于使用了 Fiddler 库，所以需要.Net 环境）
 
 **抓包使用方法**  
@@ -349,3 +350,12 @@ https://raw.githubusercontent.com/Semporia/TikTok-Unlock/master/Shadowrocket/Tik
 ```
 -*snssdk.com, -*amemv.com
 ```
+
+**Fiddler设置**
+
+* 第一次启动，设置一下。
+* ![](https://raw.githubusercontent.com/cnus/TikTok-Unlock/master/iOS%E6%8A%93%E5%8C%85/fiddler01.gif)
+* 输入拦截代码：bpu MZBuy.woa
+* 
+* 
+
