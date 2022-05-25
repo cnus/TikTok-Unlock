@@ -38,7 +38,7 @@
 
 
 - 自备 Quantumult X｜Loon｜Surge｜Shadowrocket
- 
+
      * 可在美区/日区等 App Store 获取
 
 - 自备代理，ss/ssr/vmess等  
@@ -245,7 +245,9 @@ https://raw.githubusercontent.com/Semporia/TikTok-Unlock/master/Shadowrocket/Tik
 **支持系统**  
 * windows 11/windows 10/windows 8/windows 7（由于使用了 Fiddler 库，所以需要.Net 环境）
 
-**使用方法**  
+**抓包使用方法**  
+
+**1-1、使用美区账号登录iTunes**
 
 **iTunes v12.6.5.3（最后一个带 AppStore 的版本）**
 
@@ -279,7 +281,9 @@ https://raw.githubusercontent.com/Semporia/TikTok-Unlock/master/Shadowrocket/Tik
 **3-1、安装ipa文件**
 
 * 下载完成的tiktok文件，拷贝到桌面
-* https://raw.githubusercontent.com/cnus/TikTok-Unlock/master/iOS%E6%8A%93%E5%8C%85/vmware_8J9UMKo61u.gif
+* ![](https://raw.githubusercontent.com/cnus/TikTok-Unlock/master/iOS%E6%8A%93%E5%8C%85/vmware_8J9UMKo61u.gif)
+
+
 
 
 
