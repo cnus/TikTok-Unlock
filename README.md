@@ -305,10 +305,10 @@ https://raw.githubusercontent.com/Semporia/TikTok-Unlock/master/Shadowrocket/Tik
 * 输入拦截代码：bpu MZBuy.woa
 * ![](https://raw.githubusercontent.com/cnus/TikTok-Unlock/master/iOS%E6%8A%93%E5%8C%85/fiddler%20command-01.gif)
 * 抓包注入版本号
-* v24.4.0 848980952
-  v24.3.0 848824148
-  v23.7.0 847789825
-  v21.1.0 844024073
+* v24.4.0 848980952  
+  v24.3.0 848824148  
+  v23.7.0 847789825  
+  v21.1.0 844024073  
 * ![](https://raw.githubusercontent.com/cnus/TikTok-Unlock/master/iOS%E6%8A%93%E5%8C%85/fiddler%20catch.gif)
 
 
