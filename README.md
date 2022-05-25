@@ -259,6 +259,9 @@ https://raw.githubusercontent.com/Semporia/TikTok-Unlock/master/Shadowrocket/Tik
 * 在 iTunes 下载按钮右侧下拉菜单中，选择【复制链接】。  
 * 双击选择要下载的版本。  
 * 在 iTunes 中下载即可。  
+**三、安装ipa文件**
+
+
 
 **常见问题**
 
