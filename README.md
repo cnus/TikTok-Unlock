@@ -298,7 +298,18 @@ https://raw.githubusercontent.com/Semporia/TikTok-Unlock/master/Shadowrocket/Tik
 * 使用抓包工具拦截v24.1.0版本，iTunes下载，爱思助手安装。
 * 手机打开v24.1.0版本，测试。
 
+**另一种方式：使用Fiddler抓包设置**
 
+* 第一次启动，设置一下。
+* ![](https://raw.githubusercontent.com/cnus/TikTok-Unlock/master/iOS%E6%8A%93%E5%8C%85/fiddler%20option.gif)
+* 输入拦截代码：bpu MZBuy.woa
+* ![](https://raw.githubusercontent.com/cnus/TikTok-Unlock/master/iOS%E6%8A%93%E5%8C%85/fiddler%20command-01.gif)
+* 抓包注入版本号
+* v24.4.0 848980952
+  v24.3.0 848824148
+  v23.7.0 847789825
+  v21.1.0 844024073
+* ![](https://raw.githubusercontent.com/cnus/TikTok-Unlock/master/iOS%E6%8A%93%E5%8C%85/fiddler%20catch.gif)
 
 
 
@@ -351,11 +362,5 @@ https://raw.githubusercontent.com/Semporia/TikTok-Unlock/master/Shadowrocket/Tik
 -*snssdk.com, -*amemv.com
 ```
 
-**Fiddler设置**
-
-* 第一次启动，设置一下。
-* ![](https://raw.githubusercontent.com/cnus/TikTok-Unlock/master/iOS%E6%8A%93%E5%8C%85/fiddler01.gif)
-* 输入拦截代码：bpu MZBuy.woa
-* 
 * 
 
