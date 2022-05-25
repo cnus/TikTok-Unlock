@@ -247,19 +247,39 @@ https://raw.githubusercontent.com/Semporia/TikTok-Unlock/master/Shadowrocket/Tik
 
 **使用方法**  
 
-**一、直接搜索方式**
+**iTunes v12.6.5.3（最后一个带 AppStore 的版本）**
+
+* 官方直链：  
+* [64 位下载](https://secure-appldnld.apple.com/itunes12/091-87819-20180912-69177170-B085-11E8-B6AB-C1D03409AD2A6/iTunes64Setup.exe)  
+* [32 位下载](https://secure-appldnld.apple.com/itunes12/091-87820-20180912-69177170-B085-11E8-B6AB-C1D03409AD2A5/iTunesSetup.exe)
+* 备用下载地址
+* [64 位下载](https://www.jianguoyun.com/p/DacaIZgQyqK0CBi50MAEIAA)
+
+
+
+![ituns-tiktok_v1](https://raw.githubusercontent.com/cnus/TikTok-Unlock/master/iOS%E6%8A%93%E5%8C%85/ituns-tiktok_v1.png)
+
+* 如果提示登录Apple ID 出错。应停止抓包工具拦截，再次尝试登录。
+
+**2-1直接搜索方式**
+
 * 搜索 APP，双击选择。  
 * 双击选择要下载的版本。  
-* 在 iTunes 中下载即可。  
+* 在 iTunes 中下载，如果没有下载速度，建议暂停下载，并关闭拦截，再回复下载。  
 ![Image text](https://raw.githubusercontent.com/Semporia/TikTok-Unlock/master/iOS抓包/1.png)
 ![Image text](https://raw.githubusercontent.com/Semporia/TikTok-Unlock/master/iOS抓包/2.png)
 ![Image text](https://raw.githubusercontent.com/Semporia/TikTok-Unlock/master/iOS抓包/3.png)
 
-**二、复制 APP 链接方式**
+**2-2、复制 APP 链接方式**
+
 * 在 iTunes 下载按钮右侧下拉菜单中，选择【复制链接】。  
 * 双击选择要下载的版本。  
 * 在 iTunes 中下载即可。  
-**三、安装ipa文件**
+
+**3-1、安装ipa文件**
+
+* 下载完成的tiktok文件，拷贝到桌面
+* https://raw.githubusercontent.com/cnus/TikTok-Unlock/master/iOS%E6%8A%93%E5%8C%85/vmware_8J9UMKo61u.gif
 
 
 
@@ -300,10 +320,7 @@ https://raw.githubusercontent.com/Semporia/TikTok-Unlock/master/Shadowrocket/Tik
 **下载地址**  
 * [iOS任意版本号APP下载v5.1](https://raw.githubusercontent.com/Semporia/TikTok-Unlock/master/iOS抓包/iOS旧版应用下载v5.1.exe)
 
-**iTunes v12.6.5.3（最后一个带 AppStore 的版本）**
-* 官方直链：  
-* [64 位下载](https://secure-appldnld.apple.com/itunes12/091-87819-20180912-69177170-B085-11E8-B6AB-C1D03409AD2A6/iTunes64Setup.exe)  
-* [32 位下载](https://secure-appldnld.apple.com/itunes12/091-87820-20180912-69177170-B085-11E8-B6AB-C1D03409AD2A5/iTunesSetup.exe)
+
 
 **[视频教程](https://www.bilibili.com/video/BV1VQ4y1M77t)**
 
